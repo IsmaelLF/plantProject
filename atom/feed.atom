@@ -2,21 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <title>plantProject</title>
     <entry>
-    <author>
-        <name>A22IsmaelLF
+        <author>
+            <name>A22IsmaelLF
         </name>
-    </author>
-    <published>2022-11-23T10:02:00Z</published>
-    <updated>2022-11-23T10:02:00Z</updated>
-    <link>https://ismaellf.github.io/plantProject/</link>
-    <content>The best sunflowers</content>
+        </author>
+        <published>2022-11-23T10:00:00Z</published>
+        <updated>2022-11-23T10:00:00Z</updated>
+        <content>The best sunflowers</content>
+        <link>https://ismaellf.github.io/plantProject/</link>
     </entry>
-
-
-
-
-
-
 
 
 </feed>
