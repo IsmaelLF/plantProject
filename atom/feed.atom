@@ -5,11 +5,14 @@
         <author>
             <name>A22IsmaelLF
         </name>
+        <title>plantProject</title>
+        <subtitle>test</subtitle>
         </author>
         <published>2022-11-23T10:00:00Z</published>
         <updated>2022-11-23T10:00:00Z</updated>
         <content>The best sunflowers</content>
         <link>https://ismaellf.github.io/plantProject/plant.html</link>
+        <summary>Summary</summary>
     </entry>
 
 
